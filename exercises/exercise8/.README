@@ -1,0 +1,17 @@
+install the firebase CLi installed and login google account
+`curl -sL https://firebase.tools | bash`
+`firebase login`
+`dart pub global activate flutterfire_cli`
+
+Configure FlutterFire
+`flutterfire configure`
+or
+`flutterfire configure --project=xiaomin-3035f`
+
+Add Firebase packages to Flutter app from root directory
+`flutter pub add firebase_core`
+`flutter pub add firebase_auth`
+`flutter pub add flutterfire_ui`
+
+
+``
