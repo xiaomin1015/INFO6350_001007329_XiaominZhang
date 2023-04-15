@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541633265065",
+    "project_id": "xiaomin-3035f",
+    "storage_bucket": "xiaomin-3035f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541633265065:android:75d067f2c4150ec0c598b8",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541633265065-nehhovndbjcvvr397h897v5bh3uj881i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwXIv1ULA7UzVqvgKCE4VYF_3p49TrA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541633265065-9u8najkkl2rd2i6puh8iu7amj8uk8n1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
